@@ -9,7 +9,7 @@ The robot can be controlled wirelessly via **Bluetooth** using the **EZ-GUI Grou
 ## 🖼️ Project Overview
 
 ![Robot Image](bot.png)  
-*A prototype of the self-balancing robot (replace with your photo)*
+*A prototype of the self-balancing robot*
 
 ---
 
