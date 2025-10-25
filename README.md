@@ -104,5 +104,5 @@ The robot is controlled via the **EZ-GUI Ground Station** app, available on the 
 | Bishaw Kirti Chakma | 1809061 | 2K18 |
 
 **Supervisor:**  
-Md. Khorshed Alom, Lecturer  
+Md. Khorshed Alom, Assitant Professor  
 Department of Electronics and Communication Engineering, KUET
