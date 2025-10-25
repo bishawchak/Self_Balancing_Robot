@@ -8,7 +8,7 @@ The robot can be controlled wirelessly via **Bluetooth** using the **EZ-GUI Grou
 
 ## 🖼️ Project Overview
 
-![Robot Image](images/robot.jpg)  
+![Robot Image](bot.png)  
 *A prototype of the self-balancing robot (replace with your photo)*
 
 ---
@@ -46,7 +46,7 @@ The **Arduino Nano** runs a **PID control algorithm** to correct any deviation a
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](images/circuit_diagram.png)  
+![Circuit Diagram](circuit_diagram.png)  
 *Circuit diagram showing the connection of MPU6050, Bluetooth, and motor drivers*
 
 ---
@@ -71,7 +71,7 @@ The robot is controlled via the **EZ-GUI Ground Station** app, available on the 
 - Send directional commands
 - Get voice feedback from the app
 
-![EZ-GUI App Screenshot](images/ezgui_app.png)  
+![EZ-GUI App Screenshot](app.png)  
 *Android app interface for controlling the robot*
 
 ---
